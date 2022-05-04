@@ -19,6 +19,11 @@ Debe tener un archivo requirements.txt
 Debe contar con un despliegue en Heroku  
 Debe compartir el usuario y contraseña de superadministrador en el despliegue  
 
+# Preview :tv:  
+![abc](https://user-images.githubusercontent.com/97619450/166612971-9a0fd092-d150-450b-9212-680324dfbad9.png)  
+![abcd](https://user-images.githubusercontent.com/97619450/166612976-34206556-be5c-403d-8bec-eb6725148be1.png)  
+![abcvss](https://user-images.githubusercontent.com/97619450/166612978-59f3083c-fbc3-4fa0-8189-34773d041062.png)  
+
 # Clone :cyclone:  
 git clone https://github.com/JocelynRincon/systempollsdjango
 # Author :woman_technologist:  
