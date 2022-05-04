@@ -1,5 +1,5 @@
 # Systempolls :clock1230:  
-construir un sistema de encuestas para hacer votaciones al tema que prefieras
+Construir un sistema de encuestas para hacer votaciones al tema que prefieras
 
 # Language :wrench:    
 Django
